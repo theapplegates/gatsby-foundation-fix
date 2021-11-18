@@ -46,7 +46,7 @@ module.exports = {
               maxWidth: 1024,
               showCaptions: true,
               linkImagesToOriginal: false,
-              tracedSVG: true,
+              tracedSVG: false,
               loading: "lazy",
             },
           },
