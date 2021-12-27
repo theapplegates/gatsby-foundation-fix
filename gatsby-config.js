@@ -72,6 +72,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     'gatsby-plugin-theme-ui',
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
